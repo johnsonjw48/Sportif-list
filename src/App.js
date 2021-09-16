@@ -58,17 +58,7 @@ function App() {
                 <button>Ajouter</button> 
           </form>
 
-          {tab.map((item)=>(
-          
-          <div className="list-coach">
-
-              <ul>
-                  
-                     <li></li>
-              
-              </ul>
-
-          </div> ))}
+         
       
     </div>
   );
